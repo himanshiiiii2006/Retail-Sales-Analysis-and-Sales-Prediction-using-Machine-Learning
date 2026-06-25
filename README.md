@@ -125,7 +125,7 @@ The analysis shows that product categories, order quantity, and discounts have a
 
 ## Author
 
-**Name:** Himanshi Shalu
+**Name:** Himanshi 
 
 **Course:** BCA (DS-AI)
 
